@@ -1,0 +1,122 @@
+/*
+Selecting By Element
+*/
+
+h1 {
+    color: rgb(208, 129, 26);
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+
+/* 
+We can select based on Class
+*/
+.title {
+    color: chartreuse;
+    font-size: 100px;
+}
+
+.lastP {
+    font-size: 10px;
+}
+
+.links {
+    padding: 10px;
+    text-align: center;
+}
+
+/* 
+We can select based on ID
+*/
+#this {
+    color: rgb(184, 105, 8);
+    font-size: 75px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+.box1 {
+    height: 75px;
+    width: 75px;
+    background-color: blue;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.box2 {
+    height: 150px;
+    width: 75px;
+    background-color: rgb(21, 255, 0);
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.innerspace {
+    
+    height: 10px;
+    width: 10px;
+    background-color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+.container{
+    width: 950px;
+    background-color: silver;
+    margin: 10px auto;
+    padding: 10px auto;
+}
+
+
+.top-nav {
+    height: 150px;
+    width: 930px;
+    background-color: green;
+    margin: 10px auto;
+}
+
+
+.side-nav {
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+}
+.main {
+    height: 400px;
+    width: 700px;
+    background-color: red;
+}
+.sub-content {
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+}
+#advertisement {
+    height: 120px;
+    width: 660px;
+    background-color: purple;
+}
+
+
+
+
+
+
+
