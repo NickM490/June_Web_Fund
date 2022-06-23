@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+}
+
+
+h1 {
+    color: orange;
+    /* display: inline; */
+}
+
+.moreStuff {
+    font-style: italic;
+    /* display: inline; */
+}
+
+#specificStuff {
+    text-align: center;
+    /* display: inline; */
+}
