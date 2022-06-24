@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    height: 70px;
+    background-color: black;
+    display: flex;
+}
+
+.navLeft {
+    height: 70px;
+    width: 240px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    position: relative;
+    left: 105px;
+}
+
+.navRight {
+    height: 70px;
+    width: 280px;
+    background-color: black;
+}
+
+.navRight button {
+    position: relative;
+    top: 25px;
+    left: 275px;
+}
+
+
+
+.mainContent {
+    height: 455px;
+    background-color: white;
+}
+
+.userCard {
+    height: 210px;
+    width: 235px;
+    background-color: green;
+    position: absolute;
+    top: 110px;
+    left: 115px;
+
+}
+
+.userCardBanner {
+    height: 60px;
+    width: 239px;
+    background-color: rgb(27, 162, 162);
+}
+
+.userCardContent {
+    height: 150px;
+    width: 235px;
+    background-color: white;
+    border: 2px solid rgb(211, 209, 209);
+    
+}
+
+.userCardContent h2 {
+    font-family: cursive;
+    position: relative;
+    top: 25px;
+    left: 15px;
+    
+}
+
+.userCardContent p {
+    font-size: x-small;
+    font-family: cursive;
+    position: relative;
+    top: 30px;
+    left: 15px;
+}
+
+.userCardContent a {
+    font-size: x-small;
+    font-family: cursive;
+    position: relative;
+    top: 45px;
+    left: 40px;
+}
+
+#profPic {
+    height: 75px;
+    position: absolute;
+    top: 20px;
+    left: 15px;
+    /* filter: invert(); */
+
+}
+
+.location {
+    height: 15px;
+    position: absolute;
+    top: 120px;
+    left: 20px;
+}
+
+#locP {
+    position: relative;
+    left: 30px;
+    top: 25px;
+}
+
+.gear {
+    height: 15px;
+    position: absolute;
+    top: 185px;
+    left: 20px;
+}
+
+.requestBox {
+    height: 95px;
+    width: 170px;
+    background-color: green;
+    position: relative;
+    top: 40px;
+    left: 390px;
+}
+
+.reqBoxBanner {
+    height: 35px;
+    width: 174px;
+    background-color: rgb(92, 92, 92);
+}
+
+.requestBoxContent {
+    height: 60px;
+    width: 170px;
+    background-color: white;
+    border: 2px solid  rgb(211, 209, 209);
+}
+
+.educationBox {
+    height: 160px;
+    width: 235px;
+    background-color: green;
+    position: absolute;
+    top: 360px;
+    left: 115px;
+}
+
+.educBoxBanner {
+    height: 40px;
+    width: 239px;
+    background-color:  rgb(92, 92, 92);
+}
+
+.educBoxContent {
+    height: 120px;
+    width: 235px;
+    background-color: white;
+    border: 2px solid  rgb(211, 209, 209);
+}
+
+.connectionsBox {
+    height: 185px;
+    width: 170px;
+    background-color: green;
+    position: relative;
+    top: 70px;
+    left: 390px;
+}
+
+.connectBoxBanner {
+    height: 35px;
+    width: 174px;
+    background-color:  rgb(92, 92, 92);
+}
+
+.connectBoxContent {
+    height: 115px;
+    width: 170px;
+    background-color: white;
+    border: 2px solid  rgb(211, 209, 209);
+}
+
+.connectBoxLink {
+    height: 35px;
+    width: 170px;
+    background-color: white;
+    border: 2px solid rgb(211, 209, 209);
+    border-top: none;
+
+
+}
+
+
+
+
+
